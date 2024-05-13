@@ -3,5 +3,6 @@ resolusi3
 resolusi4
 resolusi5
 resolusi6
+ini resolusi branch 1
 
 ini resolusi di branch
